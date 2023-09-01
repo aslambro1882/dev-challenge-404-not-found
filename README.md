@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/solutions/ZPevgDSu0bNTojXhxuuw">
       Challenge
     </a>
   </h3>
