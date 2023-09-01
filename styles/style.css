@@ -8,11 +8,10 @@ body {
   font-family: "Space Mono", monospace;
 }
 main {
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 100px auto;
+  margin: 180px auto;
 }
 article {
   display: flex;
@@ -78,17 +77,22 @@ a {
 
 @media screen and (max-width: 576px) {
   main {
-    height: 85vh;
-    margin: 10px auto;
+    /* margin: 10px auto; */
+    /* margin-bottom: 3rem; */
+    margin: 3rem auto;
   }
   article {
     flex-direction: column;
+    gap: 2rem;
   }
   article section {
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
+  h3 {
+    margin-bottom: 3rem;
   }
   h1 {
     font-size: 2.8rem;
